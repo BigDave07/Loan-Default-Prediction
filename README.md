@@ -28,4 +28,4 @@ Best model: **Logistic Regression**
 - F1 Score: 91%
 
 ## 📄 Report
-Full PDF report with objectives, data processing, model comparisons, and insights is available in the `/report
+Full PDF report with objectives, data processing, model comparisons, and insights is available in the report
